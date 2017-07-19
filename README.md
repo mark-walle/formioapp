@@ -1,5 +1,6 @@
 # Meanapp
 
+Prototype implementation of Travis Tidwell's presentation App depicted in [How to build a Serverless Event Registration System](https://www.youtube.com/watch?v=7NSL-KHANXU)
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.2.1.
 
 ## Development server
